@@ -1,0 +1,26 @@
+<annotation>
+	<folder>opencv_people</folder>
+	<filename>person.jpg</filename>
+	<path>/home/hzy/PycharmProjects/opencv_people/person.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3000</width>
+		<height>4000</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>chair</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1690</xmin>
+			<ymin>1822</ymin>
+			<xmax>2686</xmax>
+			<ymax>3378</ymax>
+		</bndbox>
+	</object>
+</annotation>
